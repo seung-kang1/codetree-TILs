@@ -6,5 +6,5 @@ if a > b:
     print(a-b)
 if b > a:
     print(b-a)
-if a = b:
+if a == b:
     print(a-b)
