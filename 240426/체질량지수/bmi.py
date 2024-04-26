@@ -8,3 +8,5 @@ if b >= 25:
     print(int(b))
  
     print("Obesity")
+if b < 25:
+        print(int(b))
