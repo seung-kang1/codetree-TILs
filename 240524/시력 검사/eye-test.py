@@ -1,7 +1,5 @@
-tmp = input()
-arr = tmp.split()
-a = float(arr[0])
-b = float(arr[0])
+a = float(input())
+b = float(input())
 
 if 1.0 <= a and 1.0 <= b:
     print("High")
