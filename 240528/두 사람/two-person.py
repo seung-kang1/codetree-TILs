@@ -8,7 +8,7 @@ arr2 = tmp2.split()
 c = int(arr2[0])
 d = arr2[1]
 
-if (a >= 19 or c >=19) and b == "M" or d == "M":
+if (a >= 19 and b =="M") or (c >=19 and d == "M"):
     print("1")
 else :
     print("0")
